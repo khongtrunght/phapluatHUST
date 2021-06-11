@@ -111,7 +111,6 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 Tải tất cả các thư viện cần thiết thông qua :
-* selenium
   ```sh
   pip3 install -r requirements.txt
   ```
